@@ -1,1 +1,1 @@
-# Levenstein-s-SpellChecker
+# Levenstein-Spell-Checker
